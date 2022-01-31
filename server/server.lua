@@ -1,10 +1,3 @@
---
--- * Created with PhpStorm
--- * User: Terbium
--- * Date: 12/07/2021
--- * Time: 13:09
---
-
 local oArray = {}
 local oPlayerUse = {}
 

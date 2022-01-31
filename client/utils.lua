@@ -1,10 +1,3 @@
---
--- * Created with PhpStorm
--- * User: Terbium
--- * Date: 12/07/2021
--- * Time: 13:09
---
-
 function DrawText3Ds(x, y, z, text)
     local onScreen, _x, _y = World3dToScreen2d(x, y, z)
     
